@@ -1,5 +1,5 @@
 # Ubuntu base image
-This is a base ubuntu artful image
+This is a base ubuntu disco image
 
 ## Build arguments
 * `USER`: The non-root user to add during the build (`user` by default)
